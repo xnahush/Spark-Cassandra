@@ -5,7 +5,7 @@ This is an ETL pipeline with JSON as source and Cassandra as Target. Spark is us
 CREATE KEYSPACE retail_db
 WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 1};
 
-# create Table
+# Create Table
 CREATE TABLE order_details(
    order_id int,
    customer_fullname text,
