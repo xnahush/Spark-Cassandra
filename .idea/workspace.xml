@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e92da57-3868-4dae-a9b5-9f83dec34da4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ainqFml0kQPP6cU1w6RBbla3DD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConnectSparkCassandra">
+    <configuration name="ConnectSparkCassandra" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectSparkCassandra" />
+      <module name="SparkCassandra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectSparkCassandra_poc" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectSparkCassandra_poc" />
+      <module name="SparkCassandra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkCassandra" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="SparkCassandra" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="-usejavacp" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Scala REPL.SparkCassandra" />
+      <item itemvalue="Application.ConnectSparkCassandra_poc" />
+      <item itemvalue="Application.ConnectSparkCassandra" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnectSparkCassandra" />
+        <item itemvalue="Application.ConnectSparkCassandra_poc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SparkCassandra" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sparkcassandra [file:/C:/kafka/SparkCassandra/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="SparkCassandra-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3174511847348" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="749573865" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e92da57-3868-4dae-a9b5-9f83dec34da4" name="Default Changelist" comment="" />
+      <created>1587227470944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587227470944</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587263374661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587263374661" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1587259846641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587259846641" />
+    <state width="1537" height="117" key="GridCell.Tab.0.bottom" timestamp="1587284168075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="117" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587284168075" />
+    <state width="1537" height="117" key="GridCell.Tab.0.center" timestamp="1587284168075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="117" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587284168075" />
+    <state width="1537" height="117" key="GridCell.Tab.0.left" timestamp="1587284168074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="117" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587284168074" />
+    <state width="1537" height="117" key="GridCell.Tab.0.right" timestamp="1587284168075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="117" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587284168075" />
+    <state x="209" y="65" key="new project wizard" timestamp="1587259883421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="65" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587259883421" />
+  </component>
+</project>
